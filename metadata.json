@@ -1,0 +1,6 @@
+{
+  "name": "GlobalOdds",
+  "description": "Sportsbook 2 niveaux, casino démo et outils de conformité avec crédits virtuels DEMO_HTG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
